@@ -1,0 +1,27 @@
+{
+	"description": "Daiichi Mandiri Automation - Company, Human Resource and Project Management ",
+	"name": "manasama77/daiichimandiri.com",
+	"type": "project",
+	"homepage": "https://www.daiichimandiri.com/",
+	"license": "MIT",
+	"support": {
+		"forum": "http://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"slack": "https://codeigniterchat.slack.com",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=7.2",
+		"components/jquery": "^3.5",
+		"twbs/bootstrap": "4.6.0",
+		"select2/select2": "^4.0",
+		"moment/moment": "^2.29",
+		"components/jqueryui": "^1.12",
+		"components/font-awesome": "^5.15",
+		"mpdf/mpdf": "^8.0",
+		"setasign/fpdf": "^1.8"
+	},
+	"suggest": {
+
+	}
+}
